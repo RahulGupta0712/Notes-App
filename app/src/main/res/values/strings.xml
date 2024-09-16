@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="back_button">Back</string>
+    <string name="notes">Notes</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+    <string name="my_notes">My Notes</string>
+</resources>
